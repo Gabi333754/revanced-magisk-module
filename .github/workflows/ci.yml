@@ -59,7 +59,7 @@ jobs:
             echo "SHOULD_BUILD=1" >> $GITHUB_OUTPUT
           else
             echo "dont build!"
-            echo "SHOULD_BUILD=0" >> $GITHUB_OUTPUT
+            echo "SHOULD_BUILD=1" >> $GITHUB_OUTPUT
           fi
 
       - name: Clear older runs
