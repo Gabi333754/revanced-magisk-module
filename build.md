@@ -1,7 +1,7 @@
-YouTube: 19.01.33  
+YouTube: 19.02.34  
 Music-Extended (arm64-v8a): 6.34.51  
 Music-Extended (arm-v7a): 6.34.51  
-YouTube-Extended: 19.01.33  
+YouTube-Extended: 19.02.34  
 Music (arm64-v8a): 6.34.51  
 Music (arm-v7a): 6.34.51  
 
