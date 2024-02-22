@@ -1,7 +1,5 @@
-YouTube: 19.06.36  
-Music-Extended (arm64-v8a): 6.40.52  
-YouTube-Extended: 19.06.36  
-Music (arm64-v8a): 6.40.52  
+YouTube: 19.07.39  
+YouTube-Extended: 19.07.39  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
